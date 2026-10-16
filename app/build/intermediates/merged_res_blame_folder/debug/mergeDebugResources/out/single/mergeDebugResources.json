@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.riskauditor.app-debug-34:/drawable_ic_share.xml.flat",
+        "source": "com.riskauditor.app-main-36:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\PREETANSH GOHIL\\.gradle\\daemon\\9.3.0\\com.riskauditor.app-debug-34:\\drawable_bg_card_critical.xml.flat",
+        "source": "C:\\Users\\PREETANSH GOHIL\\.gradle\\daemon\\9.3.0\\com.riskauditor.app-main-36:\\drawable\\bg_card_critical.xml"
+    },
+    {
+        "merged": "com.riskauditor.app-debug-34:/layout_activity_main.xml.flat",
+        "source": "com.riskauditor.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.riskauditor.app-debug-34:/drawable_ic_sort.xml.flat",
+        "source": "com.riskauditor.app-main-36:/drawable/ic_sort.xml"
+    },
+    {
+        "merged": "C:\\Users\\PREETANSH GOHIL\\.gradle\\daemon\\9.3.0\\com.riskauditor.app-debug-34:\\layout_item_app.xml.flat",
+        "source": "C:\\Users\\PREETANSH GOHIL\\.gradle\\daemon\\9.3.0\\com.riskauditor.app-main-36:\\layout\\item_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\PREETANSH GOHIL\\.gradle\\daemon\\9.3.0\\com.riskauditor.app-debug-34:\\drawable_bg_card_low.xml.flat",
+        "source": "C:\\Users\\PREETANSH GOHIL\\.gradle\\daemon\\9.3.0\\com.riskauditor.app-main-36:\\drawable\\bg_card_low.xml"
+    },
+    {
+        "merged": "com.riskauditor.app-debug-34:/layout_activity_app_detail.xml.flat",
+        "source": "com.riskauditor.app-main-36:/layout/activity_app_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\PREETANSH GOHIL\\.gradle\\daemon\\9.3.0\\com.riskauditor.app-debug-34:\\drawable_bg_score_large.xml.flat",
+        "source": "C:\\Users\\PREETANSH GOHIL\\.gradle\\daemon\\9.3.0\\com.riskauditor.app-main-36:\\drawable\\bg_score_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\PREETANSH GOHIL\\.gradle\\daemon\\9.3.0\\com.riskauditor.app-debug-34:\\drawable_bg_card_dark.xml.flat",
+        "source": "C:\\Users\\PREETANSH GOHIL\\.gradle\\daemon\\9.3.0\\com.riskauditor.app-main-36:\\drawable\\bg_card_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\PREETANSH GOHIL\\.gradle\\daemon\\9.3.0\\com.riskauditor.app-debug-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\PREETANSH GOHIL\\.gradle\\daemon\\9.3.0\\com.riskauditor.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\PREETANSH GOHIL\\.gradle\\daemon\\9.3.0\\com.riskauditor.app-debug-34:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\PREETANSH GOHIL\\.gradle\\daemon\\9.3.0\\com.riskauditor.app-main-36:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.riskauditor.app-debug-34:/layout_item_app.xml.flat",
+        "source": "com.riskauditor.app-main-36:/layout/item_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\PREETANSH GOHIL\\.gradle\\daemon\\9.3.0\\com.riskauditor.app-debug-34:\\drawable_bg_score_badge.xml.flat",
+        "source": "C:\\Users\\PREETANSH GOHIL\\.gradle\\daemon\\9.3.0\\com.riskauditor.app-main-36:\\drawable\\bg_score_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\PREETANSH GOHIL\\.gradle\\daemon\\9.3.0\\com.riskauditor.app-debug-34:\\drawable_ic_refresh.xml.flat",
+        "source": "C:\\Users\\PREETANSH GOHIL\\.gradle\\daemon\\9.3.0\\com.riskauditor.app-main-36:\\drawable\\ic_refresh.xml"
+    },
+    {
+        "merged": "C:\\Users\\PREETANSH GOHIL\\.gradle\\daemon\\9.3.0\\com.riskauditor.app-debug-34:\\drawable_bg_card_medium.xml.flat",
+        "source": "C:\\Users\\PREETANSH GOHIL\\.gradle\\daemon\\9.3.0\\com.riskauditor.app-main-36:\\drawable\\bg_card_medium.xml"
+    },
+    {
+        "merged": "C:\\Users\\PREETANSH GOHIL\\.gradle\\daemon\\9.3.0\\com.riskauditor.app-debug-34:\\drawable_bg_card_high.xml.flat",
+        "source": "C:\\Users\\PREETANSH GOHIL\\.gradle\\daemon\\9.3.0\\com.riskauditor.app-main-36:\\drawable\\bg_card_high.xml"
+    },
+    {
+        "merged": "com.riskauditor.app-debug-34:/drawable_bg_tag.xml.flat",
+        "source": "com.riskauditor.app-main-36:/drawable/bg_tag.xml"
+    },
+    {
+        "merged": "C:\\Users\\PREETANSH GOHIL\\.gradle\\daemon\\9.3.0\\com.riskauditor.app-debug-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\PREETANSH GOHIL\\.gradle\\daemon\\9.3.0\\com.riskauditor.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PREETANSH GOHIL\\.gradle\\daemon\\9.3.0\\com.riskauditor.app-debug-34:\\drawable_bg_card_surface.xml.flat",
+        "source": "C:\\Users\\PREETANSH GOHIL\\.gradle\\daemon\\9.3.0\\com.riskauditor.app-main-36:\\drawable\\bg_card_surface.xml"
+    },
+    {
+        "merged": "C:\\Users\\PREETANSH GOHIL\\.gradle\\daemon\\9.3.0\\com.riskauditor.app-debug-34:\\drawable_ic_shield.xml.flat",
+        "source": "C:\\Users\\PREETANSH GOHIL\\.gradle\\daemon\\9.3.0\\com.riskauditor.app-main-36:\\drawable\\ic_shield.xml"
+    },
+    {
+        "merged": "com.riskauditor.app-debug-34:/drawable_chip_bg_selector.xml.flat",
+        "source": "com.riskauditor.app-main-36:/drawable/chip_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\PREETANSH GOHIL\\.gradle\\daemon\\9.3.0\\com.riskauditor.app-debug-34:\\layout_activity_app_detail.xml.flat",
+        "source": "C:\\Users\\PREETANSH GOHIL\\.gradle\\daemon\\9.3.0\\com.riskauditor.app-main-36:\\layout\\activity_app_detail.xml"
+    },
+    {
+        "merged": "com.riskauditor.app-debug-34:/drawable_ic_search.xml.flat",
+        "source": "com.riskauditor.app-main-36:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.riskauditor.app-debug-34:/menu_main_menu.xml.flat",
+        "source": "com.riskauditor.app-main-36:/menu/main_menu.xml"
+    }
+]
